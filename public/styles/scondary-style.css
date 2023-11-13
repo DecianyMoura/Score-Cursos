@@ -1,12 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
 
 :root {
-    --fonte_inativa: #95999c;
-    --cor_de_fundo: #1d232a;
+    --fonte_inativa: #cccccc;
+    --cor_de_fundo: #ebebeb;
     --cor_secundaria: #15191c;
-    --cor_terciaria: #2c343a;
-    --fonte_principal: 'Open Sans', sans-serif;
-    --fonte_ativa: #ffffff;
+    --cor_terciaria: #ffffff;
+    --fonte_principal: 'Poppins', sans-serif;
+    --fonte_ativa: #000000;
 }
 
 * {
@@ -59,9 +59,9 @@ body {
 
 #__listagem-alunos-admin-div {
     background-color: var(--cor_terciaria);
-    height: 800px;
-    width: 1200px;
-    border-radius: 15px;
+    height: 90vh;
+    width: 90vw;
+    border-radius: 2px;
 
 }
 
