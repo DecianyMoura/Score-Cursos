@@ -29,7 +29,7 @@ body {
     background-color: var(--cor_terciaria);
     height: 350px;
     width: 350px;
-    border-radius: 15px;
+    border-radius: 2px;
 
 }
 
@@ -37,23 +37,23 @@ body {
     background-color: var(--cor_terciaria);
     height: 800px;
     width: 800px;
-    border-radius: 15px;
+    border-radius: 2px;
 
 }
 
 #__listagem-cursos-admin-div {
     background-color: var(--cor_terciaria);
-    height: 800px;
-    width: 1200px;
-    border-radius: 15px;
+    height: 90vh;
+    width: 90vw;
+    border-radius: 2px;
 
 }
 
 #__listagem-cursos-aluno-div {
     background-color: var(--cor_terciaria);
-    height: 800px;
-    width: 1200px;
-    border-radius: 15px;
+    height: 90vh;
+    width: 90vw;
+    border-radius: 2px;
 
 }
 
