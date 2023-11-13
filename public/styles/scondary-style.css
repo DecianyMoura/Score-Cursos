@@ -27,8 +27,8 @@ body {
 
 #__login-div {
     background-color: var(--cor_terciaria);
-    height: 350px;
-    width: 350px;
+    height: 60vh;
+    width: 50vh;
     border-radius: 2px;
 
 }
