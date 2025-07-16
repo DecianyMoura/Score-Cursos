@@ -3,7 +3,7 @@ const app = express();
 
 const bodyParser = require('body-parser');
 
-const db = require('./banco/db');
+const db = require('./banco/banco_dados.js');
 
 
 
