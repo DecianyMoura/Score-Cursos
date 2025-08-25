@@ -1,6 +1,6 @@
-# Score Cursos
+# Site Score Cursos
 
-Score Cursos é uma **plataforma corporativa de gestão de cursos**, voltada para empresas que desejam **capacitar e desenvolver seus colaboradores**.  
+Exemplo simples de **plataforma corporativa de gestão de cursos**, voltada para empresas que desejam **capacitar e desenvolver seus colaboradores**.  
 
 Com o Score Cursos, as empresas podem **adicionar cursos internos**, acompanhar a evolução dos funcionários e oferecer **treinamentos personalizados** para cada equipe.
 
