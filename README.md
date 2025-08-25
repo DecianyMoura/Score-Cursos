@@ -33,3 +33,5 @@ O objetivo do projeto é **facilitar o desenvolvimento profissional dentro das e
 - **Banco de dados**: MySQL
 - **Hospedagem**: Adaptado conforme a necessidade da empresa contratante
 
+- (Projeto acadêmico)
+
